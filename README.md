@@ -83,7 +83,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 4. Code Maintainability 
    - Solution: Write modular, well-documented code and follow coding standards.  
 
-5. Collaboration & Communication 💬  
+5. Collaboration & Communication  
    Solution: Use team tools like Git, Slack, and Jira, and hold regular meetings.  
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
